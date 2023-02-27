@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../JGPhoto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JGPhoto"
+	}
+}

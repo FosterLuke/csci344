@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../../../c_c++"
+		},
+		{
+			"path": "../../../../School/Home3"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Downloads/lab1"
+		},
+		{
+			"path": "G:/.shortcut-targets-by-id/1-41PeSuUUT5LAY9U0mU0kvGVGo6IqMcH/lab1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"math.h": "c",
+			"stdlib.h": "c",
+			"EXER.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "csci344"
+	}
+}
